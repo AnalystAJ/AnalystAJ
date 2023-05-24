@@ -9,8 +9,10 @@
   - [Connect Active Directory To Your Computer](https://github.com/AnalystAJ/ActiveDirectory)
 - <b>ICMPv4</b>
   - [Enable ICMPv4 On Local Windows Firewall](https://github.com/AnalystAJ/ICMPv4)
-  
-  
+- <b>ICMPv4</b>
+  - [Enable ICMPv4 On Local Windows Firewall](https://github.com/AnalystAJ/ICMPv4)
+- <b>DNS Settings</b>
+  - [Set A Remote Desktops DNS Settings To A DC’s Private IP address](https://github.com/AnalystAJ/private)
   
   
   
