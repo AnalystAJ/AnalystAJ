@@ -7,7 +7,7 @@
   - [osTicket: Ticket DeepDive with Examples](https://github.com/analystaj/ticket-deepdive)
 - <b>Active Directory</b>
   - [Connect Active Directory To Your Computer](https://github.com/AnalystAJ/ActiveDirectory)
-  - [Create Users](https://github.com/AnalystAJ/ADusers
+  - [Create Users](https://github.com/AnalystAJ/ADusers)
 - <b>ICMPv4</b>
   - [Enable ICMPv4 On Local Windows Firewall](https://github.com/AnalystAJ/ICMPv4)
 - <b>DNS Settings</b>
