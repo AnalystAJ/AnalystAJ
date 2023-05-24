@@ -5,9 +5,14 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation/Post-Installation Configuration](https://github.com/analystaj/osticket-prereqs)
   - [osTicket: Ticket DeepDive with Examples](https://github.com/analystaj/ticket-deepdive)
-- <b>Microsoft Azure</b>
-  - [Connecting Active Directory To Your Computer](https://github.com/AnalystAJ/ActiveDirectory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
+- <b>Active Directory</b>
+  - [Connect Active Directory To Your Computer](https://github.com/AnalystAJ/ActiveDirectory)
+- <b>ICMPv4</b>
+  - [Enable ICMPv4 On Local Windows Firewall](https://github.com/AnalystAJ/ICMPv4)
+  
+  
+  
+  
+  
 <h2>Connect with me:</h2>
 https://linkedin.com/in/asjamess
